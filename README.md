@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kenaidi01
-- 👀 I’m interested in Ancelyn
+- 👀 I’m interested in Gaming
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me 
