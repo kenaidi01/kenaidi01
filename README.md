@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+I'm+Kenaidi;Gaming+Enthusiast;Learning+C++;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+I'm+Kenaidi;Android+Enthusiast;Gaming+Enthusiast;Kernel+%26+Device+Tree+Developer;ROM+Builder" alt="Typing SVG" />
 </div>
 
 ## 🎮 About Me
@@ -59,9 +59,6 @@
   </a>
   <a href="https://instagram.com/kenaidi01_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/kenz">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </div>
 
