@@ -5,11 +5,15 @@
 </div>
 
 ## 🎮 About Me
-- 🎮 Passionate about Gaming
-- 💻 Currently learning C++
-- 🌱 Open to collaboration
+- 👨‍💻 Android enthusiast
+- 📱 Sering mengoprek kernel & custom ROM, terutama untuk device Xiaomi
+- 🛠️ Berpengalaman dalam build, modifikasi, dan optimalisasi kernel Linux untuk Android
+- 🚀 Percaya bahwa open source & komunitas adalah kunci inovasi
 - 📫 Reach me on Instagram: [@kenaidi01_](https://instagram.com/kenaidi01_)
 - 📫 Facebook: [Kenz](https://facebook.com/kenz)
+
+## 🧩 Fun Fact
+> "Flashing custom ROMs isn't just a hobby, it's a way to take full control of your device."
 
 ## 🛠️ Tech Stack
 <div align="center">
@@ -29,14 +33,23 @@
 
 ## 🌟 Featured Projects
 <div align="center">
+  <a href="https://github.com/kenaidi01/N0Kernel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kenaidi01&repo=N0Kernel&theme=radical" />
+  </a>
   <a href="https://github.com/kenaidi01/kernel_xiaomi_sm8250">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kenaidi01&repo=kernel_xiaomi_sm8250&theme=radical" />
+  </a>
+  <a href="https://github.com/kenaidi01/android_device_xiaomi_munch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kenaidi01&repo=android_device_xiaomi_munch&theme=radical" />
+  </a>
+  <a href="https://github.com/kenaidi01/android_hardware_xiaomi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kenaidi01&repo=android_hardware_xiaomi&theme=radical" />
   </a>
 </div>
 
 ## 🎯 3D Profile View
 <div align="center">
-  <img src="https://github-profile-3d.vercel.app/profile?username=kenaidi01&theme=radical&animation=wave" />
+  <img src="https://ghchart.rshah.org/kenaidi01" alt="kenaidi01's Github chart" />
 </div>
 
 ## 📫 Connect with Me
